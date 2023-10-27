@@ -1,7 +1,7 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
 
-/*a list that was given from the task 0 */
+/*a list that was given from the task */
 
 int _putchar(char c);
 int _islower(int c);
